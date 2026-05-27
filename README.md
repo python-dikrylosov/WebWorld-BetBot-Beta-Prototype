@@ -90,13 +90,13 @@
 
 - **Python:** >= 3.8
 - **Библиотеки Python:**
-    - `torch` (для запуска моделей Hugging Face)
-    - `transformers` (для работы с моделями Hugging Face)
-    - `huggingface_hub` (для загрузки моделей)
-    - `selenium`
-    - `webdriver-manager` (рекомендуется для автоматической настройки драйверов)
-    - `datasets` (для работы с датасетами Hugging Face, опционально)
-    - `playwright` (для генерации A11y Trees, если требуется, опционально)
+    - `torch` (для запуска моделей Hugging Face) <!-- Используем 🤖 как общий символ для ML/AI -->
+    - `transformers` (для работы с моделями Hugging Face) <!-- 🤖 -->
+    - `huggingface_hub` (для загрузки моделей) <!-- 🤗 -->
+    - `selenium` <!-- 🕸️ -->
+    - `webdriver-manager` (рекомендуется для автоматической настройки драйверов) <!-- 🕸️ -->
+    - `datasets` (для работы с датасетами Hugging Face, опционально) <!-- 📊 -->
+    - `playwright` (для генерации A11y Trees, если требуется, опционально) <!-- 🕸️ -->
 
 ---
 
